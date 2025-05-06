@@ -4,7 +4,6 @@ Here is your complete and attractive `README.md` file for the **Python-Mastery**
 
 ---
 
-````markdown
 # 🐍 Python-Mastery
 
 > **Master Python from Zero to Hero**  
@@ -53,7 +52,7 @@ Welcome to **Python-Mastery** – a comprehensive Python learning path from begi
 - 🧪 Automation Enthusiasts & Backend Developers
 
 ---
-
+````markdown
 ## 📂 Folder Structure
 
 ```bash
