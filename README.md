@@ -131,11 +131,3 @@ You are free to use, copy, and modify this project with proper credit.
 
 ---
 
-> ⭐ **Star this repository** to support this project and help others discover it!
-
-```
-
----
-
-Would you like me to bundle this along with a starter folder structure in a `.zip` so you can directly upload it to GitHub?
-```
